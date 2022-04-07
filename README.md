@@ -1,4 +1,5 @@
 # no_2_c14190124
+(Sorry Ce, AVD saya full memorynya ,AVD satunya ndak bisa di run. Jadi run flutter pake chrome, mungkin ada yang overlap layoutnya)
 
 A new Flutter project.
 
